@@ -1,4 +1,4 @@
-# LeetCode
+# Welcome to my github
 记录LeetCode生活~
 
 ## LeetCode 目录|Catlog

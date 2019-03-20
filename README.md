@@ -3,7 +3,7 @@
 
 ## LeetCode 目录|Catlog
 |序号Serial|题名Title|难度Difficulty|
-|---|---|---|
+|:---:|---|---|
 |1|[两数之和 - Two Sum](https://github.com/MineSimon/LeetCode/blob/master/code/001.%20Two%20Sum.py)|Easy|
 |2|[两数相加 - Add Two Numbers](https://github.com/MineSimon/LeetCode/blob/master/code/002.%20Add%20Two%20Numbers.py)|Medium|
 |3|[无重复字符的最长子串 - Longest Substring Without Repeating Characters](https://github.com/MineSimon/LeetCode/blob/master/code/003.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|

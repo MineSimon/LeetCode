@@ -17,5 +17,6 @@
 |16|[最接近的三数之和 - 3Sum Closest](https://github.com/MineSimon/LeetCode/blob/master/code/016.%203Sum%20Closest.py)|Medium|
 |20|[有效的括号 - Valid Parentheses](https://github.com/MineSimon/LeetCode/blob/master/code/020.%20Valid%20Parentheses.py)|Easy|
 |34|[在排序数组中查找元素的第一个和最后一个位置 - Find First and Last Position of Element in Sorted Array](https://github.com/MineSimon/LeetCode/blob/master/code/034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)|Medium|
+|39|[组合总和 - Combination Sum](https://github.com/MineSimon/LeetCode/blob/master/code/039.%20Combination%20Sum.py)|Medium|
 |852|[山脉数组的峰顶索引 - Peak Index in a Mountain Array](https://github.com/MineSimon/LeetCode/blob/master/code/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)|Easy|
 |914|[卡牌分组 - X of a Kind in a Deck of Cards](https://github.com/MineSimon/LeetCode/blob/master/code/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.py)|Easy|

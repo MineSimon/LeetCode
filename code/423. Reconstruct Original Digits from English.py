@@ -147,9 +147,7 @@ class Solution2:
         res[7] = d['v'] - res[5]
         result = ''
         for i in range(len(res)):
-            while res[i] > 0:
-                result = result + str(i)
-                res[i] -= 1
+            result += res[i]*str(i)
         return result
 
 

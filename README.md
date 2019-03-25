@@ -21,6 +21,7 @@
 |67|[二进制求和 - Add Binary](https://github.com/MineSimon/LeetCode/blob/master/code/067.%20Add%20Binary.py)|Easy|
 |263|[丑数 - Ugly Number](https://github.com/MineSimon/LeetCode/blob/master/code/263.%20Ugly%20Number.py)|Easy|
 |264|[丑数 II - Ugly Number II](https://github.com/MineSimon/LeetCode/blob/master/code/264.%20Ugly%20Number%20II.py)|Medium|
+|423|[从英文中重建数字 - Reconstruct Original Digits from English](https://github.com/MineSimon/LeetCode/blob/master/code/423.%20Reconstruct%20Original%20Digits%20from%20English.py)|Medium|
 |581|[最短无序连续子数组 - Shortest Unsorted Continuous Subarray](https://github.com/MineSimon/LeetCode/blob/master/code/581.%20Shortest%20Unsorted%20Continuous%20Subarray.py)|Easy|
 |836|[矩阵重叠 - Rectangle Overlap](https://github.com/MineSimon/LeetCode/blob/master/code/836.%20Rectangle%20Overlap.py)|Easy|
 |852|[山脉数组的峰顶索引 - Peak Index in a Mountain Array](https://github.com/MineSimon/LeetCode/blob/master/code/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)|Easy|

@@ -19,7 +19,7 @@
 |34|[在排序数组中查找元素的第一个和最后一个位置 - Find First and Last Position of Element in Sorted Array](https://github.com/MineSimon/LeetCode/blob/master/code/034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)|Medium|
 |39|[组合总和 - Combination Sum](https://github.com/MineSimon/LeetCode/blob/master/code/039.%20Combination%20Sum.py)|Medium|
 |67|[二进制求和 - Add Binary](https://github.com/MineSimon/LeetCode/blob/master/code/067.%20Add%20Binary.py)|Easy|
-|169|[求众数 - Majority Element](hettps://github.com/MineSimon/LeetCode/blob/master/code/169.%20Majority%20Element.py)|Easy|
+|169|[求众数 - Majority Element](https://github.com/MineSimon/LeetCode/blob/master/code/169.%20Majority%20Element.py)|Easy|
 |263|[丑数 - Ugly Number](https://github.com/MineSimon/LeetCode/blob/master/code/263.%20Ugly%20Number.py)|Easy|
 |264|[丑数 II - Ugly Number II](https://github.com/MineSimon/LeetCode/blob/master/code/264.%20Ugly%20Number%20II.py)|Medium|
 |423|[从英文中重建数字 - Reconstruct Original Digits from English](https://github.com/MineSimon/LeetCode/blob/master/code/423.%20Reconstruct%20Original%20Digits%20from%20English.py)|Medium|

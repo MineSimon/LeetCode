@@ -21,6 +21,8 @@
 |39|[组合总和 - Combination Sum](https://github.com/MineSimon/LeetCode/blob/master/code/039.%20Combination%20Sum.py)|Medium|
 |67|[二进制求和 - Add Binary](https://github.com/MineSimon/LeetCode/blob/master/code/067.%20Add%20Binary.py)|Easy|
 |70|[爬楼梯 - Climbing Stairs](https://github.com/MineSimon/LeetCode/blob/master/code/070.%20Climbing%20Stairs.py)|Easy|
+|91|[解码方法 - Decode Ways](https://github.com/MineSimon/LeetCode/blob/master/code/091.%20Decode%20Ways.py)|Medium|
+|120|[三角形最小路径和 - Triangle](https://github.com/MineSimon/LeetCode/blob/master/code/120.%20Triangle.py)|Medium|
 |169|[求众数 - Majority Element](https://github.com/MineSimon/LeetCode/blob/master/code/169.%20Majority%20Element.py)|Easy|
 |263|[丑数 - Ugly Number](https://github.com/MineSimon/LeetCode/blob/master/code/263.%20Ugly%20Number.py)|Easy|
 |264|[丑数 II - Ugly Number II](https://github.com/MineSimon/LeetCode/blob/master/code/264.%20Ugly%20Number%20II.py)|Medium|

@@ -20,7 +20,7 @@
 |38|[报数 - Count and Say](https://github.com/MineSimon/LeetCode/blob/master/code/038.%20Count%20and%20Say.py)|Easy|
 |39|[组合总和 - Combination Sum](https://github.com/MineSimon/LeetCode/blob/master/code/039.%20Combination%20Sum.py)|Medium|
 |62|[不同路径 - Unique Paths](https://github.com/MineSimon/LeetCode/blob/master/code/062.%20Unique%20Paths.py)|Medium|
-|63|[不同路径II - Unique Paths II]|(https://github.com/MineSimon/LeetCode/blob/master/code/063.%20Unique%20Paths%20II.py)|Medium|
+|63|[不同路径II - Unique Paths II](https://github.com/MineSimon/LeetCode/blob/master/code/063.%20Unique%20Paths%20II.py)|Medium|
 |64|[最小路径和 - Minimun Path Sum](https://github.com/MineSimon/LeetCode/blob/master/code/064.%20Minimun%20Path%20Sum.py)|Medium|
 |67|[二进制求和 - Add Binary](https://github.com/MineSimon/LeetCode/blob/master/code/067.%20Add%20Binary.py)|Easy|
 |70|[爬楼梯 - Climbing Stairs](https://github.com/MineSimon/LeetCode/blob/master/code/070.%20Climbing%20Stairs.py)|Easy|

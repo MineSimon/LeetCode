@@ -22,6 +22,7 @@
 |62|[不同路径 - Unique Paths](https://github.com/MineSimon/LeetCode/blob/master/code/062.%20Unique%20Paths.py)|Medium|
 |63|[不同路径II - Unique Paths II](https://github.com/MineSimon/LeetCode/blob/master/code/063.%20Unique%20Paths%20II.py)|Medium|
 |64|[最小路径和 - Minimum Path Sum](https://github.com/MineSimon/LeetCode/blob/master/code/064.%20Minimum%20Path%20Sum.py)|Medium|
+|66|[加一 - Plus One](https://github.com/MineSimon/LeetCode/blob/master/code/066.%20Plus%20One.py)|Easy|
 |67|[二进制求和 - Add Binary](https://github.com/MineSimon/LeetCode/blob/master/code/067.%20Add%20Binary.py)|Easy|
 |70|[爬楼梯 - Climbing Stairs](https://github.com/MineSimon/LeetCode/blob/master/code/070.%20Climbing%20Stairs.py)|Easy|
 |91|[解码方法 - Decode Ways](https://github.com/MineSimon/LeetCode/blob/master/code/091.%20Decode%20Ways.py)|Medium|

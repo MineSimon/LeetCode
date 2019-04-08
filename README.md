@@ -16,6 +16,8 @@
 |15|[三数之和 - 3Sum](https://github.com/MineSimon/LeetCode/blob/master/code/015.%203Sum.py)|Medium|
 |16|[最接近的三数之和 - 3Sum Closest](https://github.com/MineSimon/LeetCode/blob/master/code/016.%203Sum%20Closest.py)|Medium|
 |20|[有效的括号 - Valid Parentheses](https://github.com/MineSimon/LeetCode/blob/master/code/020.%20Valid%20Parentheses.py)|Easy|
+|26|[删除排序数组中的重复项 - Remove Duplicates from Sorted Array](https://github.com/MineSimon/LeetCode/blob/master/code/026.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|Easy|
+|27|[移除元素 - Remove Element](https://github.com/MineSimon/LeetCode/blob/master/code/027.%20Remove%20Element.py)|Easy|
 |34|[在排序数组中查找元素的第一个和最后一个位置 - Find First and Last Position of Element in Sorted Array](https://github.com/MineSimon/LeetCode/blob/master/code/034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)|Medium|
 |38|[报数 - Count and Say](https://github.com/MineSimon/LeetCode/blob/master/code/038.%20Count%20and%20Say.py)|Easy|
 |39|[组合总和 - Combination Sum](https://github.com/MineSimon/LeetCode/blob/master/code/039.%20Combination%20Sum.py)|Medium|

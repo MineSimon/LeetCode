@@ -8,6 +8,7 @@
 |2|[两数相加 - Add Two Numbers](https://github.com/MineSimon/LeetCode/blob/master/code/002.%20Add%20Two%20Numbers.py)|Medium|
 |3|[无重复字符的最长子串 - Longest Substring Without Repeating Characters](https://github.com/MineSimon/LeetCode/blob/master/code/003.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
 |4|[寻找两个有序数组的中位数 - Median of Two Sorted Arrays.py](https://github.com/MineSimon/LeetCode/blob/master/code/004.%20Median%20of%20Two%20Sorted%20Arrays.py)|Hard|
+|5|[最长回文子串 - Longest Palindromic Substring](https://github.com/MineSimon/LeetCode/blob/master/code/005.%20Longest%20Palindromic%20Substring.py)|Medium|
 |7|[整数反转 - Reverse Integer](https://github.com/MineSimon/LeetCode/blob/master/code/007.%20Reverse%20Integer.py)|Easy|
 |9|[回文数 - Palindrome Number](https://github.com/MineSimon/LeetCode/blob/master/code/009.%20Palindrome%20Number.py)|Easy|
 |11|[盛最多水的容器 - Container With Most Water](https://github.com/MineSimon/LeetCode/blob/master/code/011.%20Container%20With%20Most%20Water.py)|Medium|
@@ -15,7 +16,9 @@
 |14|[最长公共前缀 - Longest Common Prefix.py](https://github.com/MineSimon/LeetCode/blob/master/code/014.%20Longest%20Common%20Prefix.py)|Easy|
 |15|[三数之和 - 3Sum](https://github.com/MineSimon/LeetCode/blob/master/code/015.%203Sum.py)|Medium|
 |16|[最接近的三数之和 - 3Sum Closest](https://github.com/MineSimon/LeetCode/blob/master/code/016.%203Sum%20Closest.py)|Medium|
+|19|[删除链表的倒数第N个节点 - Remove Nth Node From End of List](https://github.com/MineSimon/LeetCode/blob/master/code/019.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|Medium|
 |20|[有效的括号 - Valid Parentheses](https://github.com/MineSimon/LeetCode/blob/master/code/020.%20Valid%20Parentheses.py)|Easy|
+|21|[合并两个有序链表 - Merge Two Sorted Lists](https://github.com/MineSimon/LeetCode/blob/master/code/021.%20Merge%20Two%20Sorted%20Lists.py)|Easy|
 |26|[删除排序数组中的重复项 - Remove Duplicates from Sorted Array](https://github.com/MineSimon/LeetCode/blob/master/code/026.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|Easy|
 |27|[移除元素 - Remove Element](https://github.com/MineSimon/LeetCode/blob/master/code/027.%20Remove%20Element.py)|Easy|
 |28|[实现strStr() - Implement strStr()](https://github.com/MineSimon/LeetCode/blob/master/code/028.%20Implement%20strStr().py)|Easy|

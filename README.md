@@ -23,8 +23,10 @@
 |27|[移除元素 - Remove Element](https://github.com/MineSimon/LeetCode/blob/master/code/027.%20Remove%20Element.py)|Easy|
 |28|[实现strStr() - Implement strStr()](https://github.com/MineSimon/LeetCode/blob/master/code/028.%20Implement%20strStr().py)|Easy|
 |34|[在排序数组中查找元素的第一个和最后一个位置 - Find First and Last Position of Element in Sorted Array](https://github.com/MineSimon/LeetCode/blob/master/code/034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)|Medium|
+|35|[搜索插入位置 - Search Insert Position](https://github.com/MineSimon/LeetCode/blob/master/code/035.%20Search%20Insert%20Position.py)|Easy|
 |38|[报数 - Count and Say](https://github.com/MineSimon/LeetCode/blob/master/code/038.%20Count%20and%20Say.py)|Easy|
 |39|[组合总和 - Combination Sum](https://github.com/MineSimon/LeetCode/blob/master/code/039.%20Combination%20Sum.py)|Medium|
+|53|[最大子序和 - Maximum Subarray](http://github.com/MineSimon/LeetCode/blob/master/code/053.%20Maximum%20Subarray.py)|Easy|
 |62|[不同路径 - Unique Paths](https://github.com/MineSimon/LeetCode/blob/master/code/062.%20Unique%20Paths.py)|Medium|
 |63|[不同路径II - Unique Paths II](https://github.com/MineSimon/LeetCode/blob/master/code/063.%20Unique%20Paths%20II.py)|Medium|
 |64|[最小路径和 - Minimum Path Sum](https://github.com/MineSimon/LeetCode/blob/master/code/064.%20Minimum%20Path%20Sum.py)|Medium|
@@ -33,6 +35,8 @@
 |70|[爬楼梯 - Climbing Stairs](https://github.com/MineSimon/LeetCode/blob/master/code/070.%20Climbing%20Stairs.py)|Easy|
 |91|[解码方法 - Decode Ways](https://github.com/MineSimon/LeetCode/blob/master/code/091.%20Decode%20Ways.py)|Medium|
 |120|[三角形最小路径和 - Triangle](https://github.com/MineSimon/LeetCode/blob/master/code/120.%20Triangle.py)|Medium|
+|121|[买股票的最佳时机 - Best Time to Buy and Sell Stock](http://github.com/MineSimon/LeetCode/blob/master/code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|Easy|
+|122|[买股票的最佳时机 II - Best Time to Buy and Sell Stock II](http://github.com/MineSimon/LeetCode/blob/master/code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)|Easy|
 |169|[求众数 - Majority Element](https://github.com/MineSimon/LeetCode/blob/master/code/169.%20Majority%20Element.py)|Easy|
 |263|[丑数 - Ugly Number](https://github.com/MineSimon/LeetCode/blob/master/code/263.%20Ugly%20Number.py)|Easy|
 |264|[丑数 II - Ugly Number II](https://github.com/MineSimon/LeetCode/blob/master/code/264.%20Ugly%20Number%20II.py)|Medium|

@@ -36,7 +36,7 @@
 |91|[解码方法 - Decode Ways](https://github.com/MineSimon/LeetCode/blob/master/code/091.%20Decode%20Ways.py)|Medium|
 |120|[三角形最小路径和 - Triangle](https://github.com/MineSimon/LeetCode/blob/master/code/120.%20Triangle.py)|Medium|
 |121|[买股票的最佳时机 - Best Time to Buy and Sell Stock](http://github.com/MineSimon/LeetCode/blob/master/code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|Easy|
-|122|[买股票的最佳时机 II - Best Time to Buy and Sell Stock II](http://github.com/MineSimon/LeetCode/blob/master/code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)|Easy|
+|122|[买股票的最佳时机 II - Best Time to Buy and Sell Stock II](https://github.com/MineSimon/LeetCode/blob/master/code/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)|Easy|
 |169|[求众数 - Majority Element](https://github.com/MineSimon/LeetCode/blob/master/code/169.%20Majority%20Element.py)|Easy|
 |263|[丑数 - Ugly Number](https://github.com/MineSimon/LeetCode/blob/master/code/263.%20Ugly%20Number.py)|Easy|
 |264|[丑数 II - Ugly Number II](https://github.com/MineSimon/LeetCode/blob/master/code/264.%20Ugly%20Number%20II.py)|Medium|

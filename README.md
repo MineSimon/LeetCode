@@ -20,6 +20,7 @@
 |20|[有效的括号 - Valid Parentheses](https://github.com/MineSimon/LeetCode/blob/master/code/020.%20Valid%20Parentheses.py)|Easy|
 |21|[合并两个有序链表 - Merge Two Sorted Lists](https://github.com/MineSimon/LeetCode/blob/master/code/021.%20Merge%20Two%20Sorted%20Lists.py)|Easy|
 |22|[括号生成 - Generate Parentheses](https://github.com/MineSimon/LeetCode/blob/master/code/022.%20Generate%20Parentheses.py)|Medium|
+|24|[两两交换链表中的节点 - Swap Nodes in Pairs](https://github.com/MineSimon/LeetCode/blob/master/code/024.%20Swap%20Nodes%20in%20Pairs.py)|Medium|
 |26|[删除排序数组中的重复项 - Remove Duplicates from Sorted Array](https://github.com/MineSimon/LeetCode/blob/master/code/026.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|Easy|
 |27|[移除元素 - Remove Element](https://github.com/MineSimon/LeetCode/blob/master/code/027.%20Remove%20Element.py)|Easy|
 |28|[实现strStr() - Implement strStr()](https://github.com/MineSimon/LeetCode/blob/master/code/028.%20Implement%20strStr().py)|Easy|

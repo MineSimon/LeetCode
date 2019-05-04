@@ -28,6 +28,7 @@
 |35|[搜索插入位置 - Search Insert Position](https://github.com/MineSimon/LeetCode/blob/master/code/035.%20Search%20Insert%20Position.py)|Easy|
 |38|[报数 - Count and Say](https://github.com/MineSimon/LeetCode/blob/master/code/038.%20Count%20and%20Say.py)|Easy|
 |39|[组合总和 - Combination Sum](https://github.com/MineSimon/LeetCode/blob/master/code/039.%20Combination%20Sum.py)|Medium|
+|46|[全排列 - Permutations](https://github.com/MineSimon/LeetCode/blob/master/code/046.%20Permutations.py)|Medium|
 |53|[最大子序和 - Maximum Subarray](https://github.com/MineSimon/LeetCode/blob/master/code/053.%20Maximun%20Subarray.py)|Easy|
 |58|[最后一个单词的长度 - Length of Last Word](https://github.com/MineSimon/LeetCode/blob/master/code/058.%20Length%20of%20Last%20Word.py)|Easy|
 |62|[不同路径 - Unique Paths](https://github.com/MineSimon/LeetCode/blob/master/code/062.%20Unique%20Paths.py)|Medium|
